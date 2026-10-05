@@ -45,4 +45,4 @@ AI-Project/
 
 ## Author
 
-Made by **Ashwani** ([@GenieAshwani](https://github.com/GenieAshwani)).
+Made by Jyoti.
